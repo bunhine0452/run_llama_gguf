@@ -1,6 +1,11 @@
 # 🚀 GGUF 파일 이해하기 및 생성 가이드
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Llama-F7931E?style=for-the-badge&logo=llama&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+</div>
 
 ## 📚 목차
 - [GGUF란 무엇인가요?](#gguf란-무엇인가요)
@@ -10,7 +15,7 @@
 
 ## 🤔 GGUF란 무엇인가요?
 
-GGUF(GGML Universal Format)는 AI 모델을 효율적으로 저장하고 실행하기 위한 파일 형식입니다. 특히 llama.cpp와 같은 프로젝트에서 사용되며, CPU에서도 대형 언어 모델을 실행할 수 있게 해주는 혁신적인 포맷입니다.
+GGUF(GGML Universal Format)는 AI 모델을 효율적으로 저장하고 실행하기 위한 파일 형식입니다. 특히 llama.cpp와 같은 프로젝트에서 사용되며, CPU에서도 대형 언어 모델을 실행할 수 있게 해주는 포맷입니다.
 
 ## 💪 GGUF 파일의 장점
 
