@@ -1,0 +1,12 @@
+[
+  {
+    "speaker": "나레이션",
+    "text": "옛날에 토끼와 거북이가 동물 마을에 살고 있었습니다",
+    "type": "narration"
+  },
+  {
+    "speaker": "토끼",
+    "text": "안녕하세요. 저는 토끼입니다.",
+    "type": "dialogue"
+  }
+]

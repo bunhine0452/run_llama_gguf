@@ -1,0 +1,21 @@
+# Python 관련 파일
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 가상 환경
+venv/
+env/
+ENV/
+
+# 모델 파일
+models/*
+!models/.gitkeep
+
+# 노트북 체크포인트
+.ipynb_checkpoints
+
+# 시스템 파일
+.DS_Store
+.env
+*.log 
